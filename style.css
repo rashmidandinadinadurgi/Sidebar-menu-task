@@ -120,3 +120,6 @@ a:focus,
 a:hover {
   text-decoration: none;
 }
+.videos a {
+  margin-left: 100px;
+}
